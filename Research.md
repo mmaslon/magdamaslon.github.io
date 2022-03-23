@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Research
 ---
 
 # Research themes
