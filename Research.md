@@ -2,10 +2,6 @@
 layout: page
 title: Research
 ---
----
-layout: page
-title: Research
----
 
 # Research themes
 
