@@ -1,9 +1,7 @@
 ---
 layout: page
-excerpt: "About Me..."
+title: Mission of the lab
 ---
-
-## Mission of the lab
 
 We use stem cell models, high throughput sequencing technologies (RNA-seq, ATAC-seq, TT-seq), CRISPR-Cas9 mediated genome editing, and bioinformatics, to understand the mechanisms that underlie nascent RNAPII transcription during development and in genome stability. 
 
