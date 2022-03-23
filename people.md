@@ -2,6 +2,8 @@
 layout: resume
 title: Lab members
 ---
+We are currently recruiting a postdoc, lab manager/research assistand and PhD students. Enquiries welcome!
+
 ### Magda Maslon
 
 <figure class="half">
