@@ -5,7 +5,7 @@ title: Lab members
 ### Magda Maslon
 
 <figure class="half">
-<img src="images/bio.jpg" width="300" align="left">
+<img src="/images/bio.jpg" width="300" align="left">
 </figure>
 
 Group Leader, Assistant Professor at the Adam Mickiewicz Univeristy in Poznan
