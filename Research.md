@@ -5,7 +5,6 @@ layout: page
 # Research themes
 
 
-
 Our genomes are highly regulated and their expression is able to respond to a variety of environmental cues. For example, during development gene expression programs drive generation of thousands of cell types in our bodies from a small population of pluripotent cells. 
 
 ## GOALS
