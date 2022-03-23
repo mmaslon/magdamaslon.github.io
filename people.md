@@ -1,7 +1,8 @@
 ---
 layout: resume
+title: Lab members
 ---
-## Magda Maslon
+### Magda Maslon
 
 ![](images/bio-photo.jpg)
 
