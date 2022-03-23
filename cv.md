@@ -3,7 +3,7 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Group Leader, Assistant Professor at the Adam Mickiewicz Univeristy in Poznan
 
 ## Education
 
